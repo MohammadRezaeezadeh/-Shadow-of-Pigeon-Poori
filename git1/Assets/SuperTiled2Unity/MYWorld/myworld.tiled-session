@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "fist.tsx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "FistWorld.tmx": {
+            "scale": 8,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 108.8125,
+                "y": 203.375
+            }
+        },
+        "fist.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        }
     },
     "last.imagePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/cos&sher/gfx",
     "map.height": 25,
@@ -15,9 +28,13 @@
     "map.tileWidth": 16,
     "map.width": 25,
     "openFiles": [
+        "FistWorld.tmx",
+        "fist.tsx"
     ],
     "project": "myworld.tiled-project",
     "recentFiles": [
+        "FistWorld.tmx",
+        "fist.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

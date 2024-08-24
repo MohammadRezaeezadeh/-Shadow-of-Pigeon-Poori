@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="25">
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="26">
  <tileset firstgid="1" source="fist.tsx"/>
  <layer id="1" name="Ground" width="25" height="25">
   <data encoding="csv">
@@ -76,8 +76,8 @@
   <object id="16" x="130.3" y="352.672" width="12.3839" height="12.9223"/>
   <object id="17" x="66.2269" y="290.752" width="43.6129" height="37.1517"/>
   <object id="20" x="323.058" y="250.909" width="27.9984" height="30.6905"/>
-  <object id="24" x="59.2274" y="124.377">
-   <polygon points="0,0 20.4604,-3.23058 20.9988,-23.1525 36.0748,-23.1525 37.1517,-2.15372 58.1505,-1.61529 59.2274,-33.3827 60.8426,-61.3811 30.1521,-75.3803 -5.3843,-57.0736 -5.92274,-28.5368"/>
+  <object id="25" x="57.625" y="123.75">
+   <polygon points="0,0 17.875,-1.25 17.875,-28 43.625,-27.875 44,-1.375 61,-1.125 62.375,-28 62.875,-60.375 30,-73.25 -4,-57.875 -4.625,-26.25"/>
   </object>
  </objectgroup>
 </map>
