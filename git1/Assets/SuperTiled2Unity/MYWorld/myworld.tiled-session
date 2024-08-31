@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "fist.tsx",
+    "activeFile": "jazire.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -13,10 +13,10 @@
                 3
             ],
             "scale": 3,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 268.1666666666667,
-                "y": 310.3333333333333
+                "x": 159.16666666666669,
+                "y": 222.33333333333331
             }
         },
         "Water.tmx": {
@@ -36,10 +36,10 @@
                 4
             ],
             "scale": 2.13,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 199.76525821596243,
-                "y": 199.99999999999997
+                "y": 76.056338028169
             }
         }
     },
@@ -52,15 +52,14 @@
     "openFiles": [
         "FistWorld.tmx",
         "fist.tsx",
-        "Water.tmx",
         "jazire.tmx"
     ],
     "project": "myworld.tiled-project",
     "recentFiles": [
         "FistWorld.tmx",
+        "fist.tsx",
         "jazire.tmx",
-        "Water.tmx",
-        "fist.tsx"
+        "Water.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

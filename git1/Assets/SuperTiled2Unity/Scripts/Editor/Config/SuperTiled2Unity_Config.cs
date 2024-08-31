@@ -21,7 +21,7 @@ namespace SuperTiled2Unity.Editor
             var settings = ScriptableObject.CreateInstance<ST2USettings>();
             AssetDatabase.CreateAsset(settings, settingsPath);
             AssetDatabase.SaveAssets();
-
+    
             return settings;
         }
 
