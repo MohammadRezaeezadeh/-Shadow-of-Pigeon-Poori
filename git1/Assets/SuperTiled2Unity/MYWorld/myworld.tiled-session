@@ -15,8 +15,16 @@
             "scale": 3,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 159.16666666666669,
-                "y": 222.33333333333331
+                "x": 200.16666666666666,
+                "y": 200
+            }
+        },
+        "Home.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 227.25,
+                "y": 202.5
             }
         },
         "Water.tmx": {
@@ -36,19 +44,19 @@
                 4
             ],
             "scale": 2.13,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 199.76525821596243,
-                "y": 76.056338028169
+                "y": 199.99999999999997
             }
         }
     },
     "last.imagePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/cos&sher/gfx",
-    "map.height": 25,
+    "map.height": 20,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 25,
+    "map.width": 20,
     "openFiles": [
         "FistWorld.tmx",
         "fist.tsx",
