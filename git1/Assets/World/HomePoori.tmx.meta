@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fdcb1c4883ef3ac4e84052b9d2bed27f
+guid: dfe902348fd91d24ca1016426f693b83
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,8 +8,10 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
-  missingFiles: []
-  errors: []
+  missingFiles:
+  - ../SuperTiled2Unity/MYWorld/fist.tsx
+  errors:
+  - 'Missing tileset asset: ../SuperTiled2Unity/MYWorld/fist.tsx'
   warnings: []
   missingSortingLayers: []
   missingLayers: []

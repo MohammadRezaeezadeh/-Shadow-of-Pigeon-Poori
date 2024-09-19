@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "HomePoori.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 136.66666666666666,
+                "y": 217.33333333333337
+            }
+        },
+        "Overworld.tsx": {
+            "dynamicWrapping": false
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/Home2.tmx": {
+            "scale": 2.116125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 249.51267056530216,
+                "y": 199.8936735778841
+            }
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/fist.tsx": {
+            "dynamicWrapping": false
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/object1.tsx": {
+            "dynamicWrapping": true
+        }
+    },
+    "last.exportedFilePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/World",
+    "last.imagePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/cos&sher/gfx",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+    ],
+    "project": "MyWorld.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
