@@ -79,11 +79,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-<<<<<<< HEAD:git1/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
     forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
-    forceMaximumCompressionQuality_BC6H_BC7: 1
->>>>>>> parent of ab7e458 ( از اینجا داستان شروع میشود):git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -96,11 +92,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-<<<<<<< HEAD:git1/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
     forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
-    forceMaximumCompressionQuality_BC6H_BC7: 1
->>>>>>> parent of ab7e458 ( از اینجا داستان شروع میشود):git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
@@ -113,18 +105,14 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-<<<<<<< HEAD:git1/Assets/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
     forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
-    forceMaximumCompressionQuality_BC6H_BC7: 1
->>>>>>> parent of ab7e458 ( از اینجا داستان شروع میشود):git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 396b3a5a95bd7614587d85fe2aa68afd
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
