@@ -131,6 +131,7 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 477535693302143418, guid: c38b8c77ef9d91a4f8c96b6bf42ab022, type: 3}
       propertyPath: text
       value: 
@@ -163,6 +164,8 @@ PrefabInstance:
       propertyPath: playerChange.y
       value: 0
       objectReference: {fileID: 0}
+=======
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
     - target: {fileID: 7037234674489611645, guid: c38b8c77ef9d91a4f8c96b6bf42ab022, type: 3}
@@ -451,6 +454,7 @@ Animator:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &156478334
 =======
 --- !u!1001 &162851143
@@ -470,6 +474,9 @@ Animator:
 =======
 --- !u!1001 &162851143
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+--- !u!1001 &138243141
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -477,6 +484,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -567,6 +575,15 @@ PrefabInstance:
 =======
       value: -5.9335504
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+    - target: {fileID: -7141938433946503641, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.664501
+      objectReference: {fileID: 0}
+    - target: {fileID: -7141938433946503641, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.383553
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
       objectReference: {fileID: 0}
     - target: {fileID: -7141938433946503641, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
       propertyPath: m_LocalPosition.z
@@ -597,8 +614,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 6704145430109656744, guid: ff7ce9579646fd34283b62b130783df9, type: 3}
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+    - target: {fileID: -7141938433946503641, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
     - target: {fileID: -7141938433946503641, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
@@ -615,10 +636,14 @@ PrefabInstance:
     m_AddedComponents: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: -2695619058785784247, guid: fdcb1c4883ef3ac4e84052b9d2bed27f, type: 3}
 =======
   m_SourcePrefab: {fileID: 100100000, guid: ff7ce9579646fd34283b62b130783df9, type: 3}
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+  m_SourcePrefab: {fileID: -2695619058785784247, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
   m_SourcePrefab: {fileID: -2695619058785784247, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
@@ -837,6 +862,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 116065131}
+<<<<<<< HEAD
 <<<<<<< HEAD
   smoothing: 0.07
   maxPosition: {x: 4, y: 7.9}
@@ -1205,6 +1231,11 @@ BoxCollider2D:
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+  smoothing: 0.001
+  maxPosition: {x: 0.78, y: 8.31}
+  minPosition: {x: -2.34, y: -6.41}
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 --- !u!1001 &607197303
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1213,6 +1244,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     - target: {fileID: -6303447269949092864, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
@@ -1224,6 +1256,8 @@ PrefabInstance:
       value: -0.0001
       objectReference: {fileID: 0}
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
     - target: {fileID: -5562234502153247539, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13
@@ -1274,10 +1308,14 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -2695619058785784247, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &672942737
 =======
 --- !u!1 &805441759
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+--- !u!1 &672942737
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1454,6 +1492,7 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -2695619058785784247, guid: a7f7c3b56ffbeca458e0edf6fe9e490a, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1466252150
 =======
 --- !u!1001 &1228486874
@@ -1514,6 +1553,9 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f65acd5282565314998a58f84a7ee162, type: 3}
 --- !u!1 &1264738633
+=======
+--- !u!1 &1466252150
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1521,6 +1563,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1264738635}
   - component: {fileID: 1264738634}
   m_Layer: 0
@@ -1606,6 +1649,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+=======
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
   - component: {fileID: 1466252151}
   - component: {fileID: 1466252153}
   - component: {fileID: 1466252152}
@@ -1742,6 +1787,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 477535693302143418, guid: c38b8c77ef9d91a4f8c96b6bf42ab022, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
       propertyPath: text
       value: 
       objectReference: {fileID: 1664961804}
@@ -1768,6 +1814,10 @@ PrefabInstance:
     - target: {fileID: 477535693302143418, guid: c38b8c77ef9d91a4f8c96b6bf42ab022, type: 3}
       propertyPath: playerChange.x
       value: 4
+=======
+      propertyPath: cameraChange.y
+      value: -26
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
       propertyPath: cameraChange.y
       value: -26
@@ -1936,6 +1986,7 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1664961804
 GameObject:
   m_ObjectHideFlags: 0
@@ -2031,6 +2082,8 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
   m_EffectDistance: {x: 1, y: -1}
   m_UseGraphicAlpha: 1
+=======
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 =======
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
 --- !u!1 &1702017710
@@ -2144,6 +2197,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1702017710}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1761552818
 GameObject:
@@ -2314,6 +2368,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 0bdbd14586b8c5e42a582c82f0cb6eeb, type: 3}
 =======
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2323,6 +2379,7 @@ SceneRoots:
   - {fileID: 1663764874}
   - {fileID: 362156508}
   - {fileID: 607197303}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 138243141}
 =======
@@ -2373,3 +2430,10 @@ SceneRoots:
   - {fileID: 162851143}
   - {fileID: 1993986115}
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+  - {fileID: 138243141}
+  - {fileID: 1158429467}
+  - {fileID: 86732866}
+  - {fileID: 1516168145}
+  - {fileID: 672942741}
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)

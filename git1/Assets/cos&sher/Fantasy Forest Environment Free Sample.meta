@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:git1/Assets/cos&sher/Fantasy Forest Environment Free Sample.meta
 guid: 086e6ea9a1fe7d144a41cd827c3ae19d
+========
+guid: 1bf29e1d6b5ab8b4293af5729131a3f8
+>>>>>>>> parent of a5ba70f (تابلو درست کردیم):git1/Assets/maps.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
