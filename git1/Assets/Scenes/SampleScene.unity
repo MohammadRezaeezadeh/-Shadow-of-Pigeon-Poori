@@ -445,7 +445,11 @@ Animator:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &156478334
+=======
+--- !u!1001 &162851143
+>>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
 --- !u!1001 &162851143
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
@@ -462,6 +466,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -511,6 +516,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6132957571334949767, guid: fdcb1c4883ef3ac4e84052b9d2bed27f, type: 3}
 =======
+=======
+>>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
@@ -1143,7 +1150,10 @@ BoxCollider2D:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
@@ -2201,9 +2211,16 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1993986115}
   - {fileID: 156478334}
   - {fileID: 576453031}
+=======
+  - {fileID: 1601465998}
+  - {fileID: 1264738635}
+  - {fileID: 162851143}
+  - {fileID: 1993986115}
+>>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
 =======
   - {fileID: 1601465998}
   - {fileID: 1264738635}
