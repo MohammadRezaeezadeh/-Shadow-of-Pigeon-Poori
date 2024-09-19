@@ -20,5 +20,10 @@ namespace SuperTiled2Unity.Editor
 
             return null;
         }
+
+        internal static string GetFirstPathOfScriptAsset<T>()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -12,6 +12,8 @@ namespace SuperTiled2Unity.Editor
         internal const string Version = "1.10.7";
         internal const string DefaultSettingsFileName = "ST2U Settings.asset";
 
+        public static object SuperPackageExport { get; private set; }
+
         public static ST2USettings CreateDefaultSettings()
         {
             var scriptPath = AssetDatabaseEx.GetFirstPathOfScriptAsset<SuperTiled2Unity_Config>();
@@ -47,7 +49,7 @@ namespace SuperTiled2Unity.Editor
         {
             var path = AssetDatabase.GetAssetPath(Selection.activeObject);
             var tracker = new RecursiveAssetDependencyTracker(path);
-            SuperPackageExport.ShowWindow(Path.GetFileNameWithoutExtension(path), tracker.Dependencies);
+           
         }
 
         [MenuItem("Assets/SuperTiled2Unity/Apply Default Settings to ST2U Assets")]
@@ -68,7 +70,7 @@ namespace SuperTiled2Unity.Editor
 
             foreach (var importer in tiledImporters)
             {
-                importer.ApplyDefaultSettings();
+                
             }
 
             foreach (var importer in tiledImporters)
