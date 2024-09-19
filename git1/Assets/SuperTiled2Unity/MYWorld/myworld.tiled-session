@@ -9,6 +9,7 @@
     ],
     "fileStates": {
         "FistWorld.tmx": {
+<<<<<<< HEAD
             "expandedObjectLayers": [
                 3
             ],
@@ -39,22 +40,18 @@
             "viewCenter": {
                 "x": 200.23474178403754,
                 "y": 14.55399061032864
+=======
+            "scale": 8,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 108.8125,
+                "y": 203.375
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
             }
         },
         "fist.tsx": {
-            "scaleInDock": 2,
-            "scaleInEditor": 2
-        },
-        "jazire.tmx": {
-            "expandedObjectLayers": [
-                4
-            ],
-            "scale": 2.13,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 199.76525821596243,
-                "y": 199.99999999999997
-            }
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
         }
     },
     "last.imagePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/cos&sher/gfx",
@@ -65,15 +62,11 @@
     "map.width": 25,
     "openFiles": [
         "FistWorld.tmx",
-        "fist.tsx",
-        "Water.tmx",
-        "jazire.tmx"
+        "fist.tsx"
     ],
     "project": "myworld.tiled-project",
     "recentFiles": [
         "FistWorld.tmx",
-        "jazire.tmx",
-        "Water.tmx",
         "fist.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
