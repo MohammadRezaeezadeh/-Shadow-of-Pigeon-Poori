@@ -123,6 +123,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &86732866
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -227,6 +228,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: c38b8c77ef9d91a4f8c96b6bf42ab022, type: 3}
 =======
 >>>>>>> parent of 823079b (حرکت دوربین درست شد)
+=======
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 --- !u!1 &116065129
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,7 +314,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
+=======
+  m_LocalPosition: {x: -1.95, y: 0.33, z: 0}
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 =======
   m_LocalPosition: {x: -1.95, y: 0.33, z: 0}
 >>>>>>> parent of 823079b (حرکت دوربین درست شد)
@@ -458,6 +465,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -699,6 +707,8 @@ PrefabInstance:
 =======
   m_SourcePrefab: {fileID: -2695619058785784247, guid: 4521e32eb4e44204c8747784d47b1538, type: 3}
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 --- !u!1 &362156505
 GameObject:
   m_ObjectHideFlags: 0
@@ -896,7 +906,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: -10}
+=======
+  m_LocalPosition: {x: -2.25, y: 0.24, z: -10}
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 =======
   m_LocalPosition: {x: -2.25, y: 0.24, z: -10}
 >>>>>>> parent of 823079b (حرکت دوربین درست شد)
@@ -918,6 +932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 116065131}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1307,6 +1322,11 @@ BoxCollider2D:
   maxPosition: {x: 0.78, y: 8.31}
   minPosition: {x: -2.34, y: -6.41}
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+  smoothing: 0.1
+  maxPosition: {x: 0.59, y: 8.3}
+  minPosition: {x: -2.38, y: -6.5}
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 --- !u!1001 &607197303
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1346,12 +1366,16 @@ PrefabInstance:
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
     - target: {fileID: -5562234502153247539, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13
+      value: -13.37
       objectReference: {fileID: 0}
     - target: {fileID: -5562234502153247539, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
       value: 13
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
+=======
+      value: 13.329718
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
       objectReference: {fileID: 0}
     - target: {fileID: -5562234502153247539, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1394,6 +1418,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: -2695619058785784247, guid: fb2692e73ff94dd4c909f75296fd3d9e, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2087,6 +2112,8 @@ PrefabInstance:
 >>>>>>> parent of 823079b (حرکت دوربین درست شد)
 =======
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
 --- !u!1 &1663764870
 GameObject:
   m_ObjectHideFlags: 0
@@ -2597,6 +2624,7 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 138243141}
 =======
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
@@ -2671,3 +2699,5 @@ SceneRoots:
   - {fileID: 1516168145}
   - {fileID: 672942741}
 >>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+>>>>>>> parent of 823079b (حرکت دوربین درست شد)
