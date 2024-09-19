@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Overworld.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "HomePoori.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 246,
+                "y": 183.33333333333337
+            }
+        },
+        "Overworld.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/Home2.tmx": {
+            "scale": 2.116125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 249.51267056530216,
+                "y": 199.8936735778841
+            }
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/fist.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/object1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        }
+    },
+    "last.exportedFilePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/World",
+    "last.imagePath": "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/cos&sher/gfx",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "HomePoori.tmx",
+        "Overworld.tsx",
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/Home2.tmx"
+    ],
+    "project": "MyWorld.tiled-project",
+    "recentFiles": [
+        "HomePoori.tmx",
+        "X:/unityProject/-Shadow-of-Pigeon-Poori/git1/Assets/SuperTiled2Unity/MYWorld/Home2.tmx",
+        "Overworld.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
