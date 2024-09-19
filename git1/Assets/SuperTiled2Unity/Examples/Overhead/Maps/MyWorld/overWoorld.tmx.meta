@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:git1/Assets/SuperTiled2Unity/MYWorld/FistWorld.tmx.meta
 guid: 6b20d1b6beb45d043a267a9033e86f77
+=======
+guid: 32fc7ced86e00ae4599ac051205c3435
+>>>>>>> parent of a99e4ad (درگیری با tiled):git1/Assets/SuperTiled2Unity/Examples/Overhead/Maps/MyWorld/overWoorld.tmx.meta
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
