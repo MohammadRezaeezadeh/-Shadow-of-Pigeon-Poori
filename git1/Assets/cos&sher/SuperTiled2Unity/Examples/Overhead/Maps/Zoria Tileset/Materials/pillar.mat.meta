@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/Materials/pillar.mat.meta
 guid: 4b282e075a76fb84c97cc3778bc5c334
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
+========
+guid: eded051879df4c147b9010199d240258
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+>>>>>>>> parent of a5ba70f (تابلو درست کردیم):git1/Assets/cos&sher/Fantasy Forest Environment Free Sample/Meshes/Prefabs/tree_1.prefab.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
