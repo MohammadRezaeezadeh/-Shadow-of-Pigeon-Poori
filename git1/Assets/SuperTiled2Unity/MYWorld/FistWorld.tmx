@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="26">
+=======
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="37">
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
  <tileset firstgid="1" source="fist.tsx"/>
  <layer id="1" name="Ground" width="25" height="25">
   <data encoding="csv">
@@ -79,5 +83,15 @@
   <object id="25" x="57.625" y="123.75">
    <polygon points="0,0 17.875,-1.25 17.875,-28 43.625,-27.875 44,-1.375 61,-1.125 62.375,-28 62.875,-60.375 30,-73.25 -4,-57.875 -4.625,-26.25"/>
   </object>
+<<<<<<< HEAD
+=======
+  <object id="26" x="-0.5" y="0" width="15" height="209"/>
+  <object id="27" x="-1" y="0.5" width="395" height="11.5"/>
+  <object id="28" x="384.5" y="1.5" width="14.5" height="385"/>
+  <object id="29" x="386" y="380" width="13" height="19.5"/>
+  <object id="30" x="1.5" y="385.5" width="395.5" height="12.5"/>
+  <object id="35" x="2" y="242" width="13" height="153.5"/>
+  <object id="36" x="452.5" y="133.5"/>
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
  </objectgroup>
 </map>

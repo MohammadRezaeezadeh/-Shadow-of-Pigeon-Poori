@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<<< HEAD:git1/Assets/art.meta
 guid: 28068185d08f2074ab06a9e87a2518b8
 ========
@@ -8,6 +9,13 @@ guid: 086e6ea9a1fe7d144a41cd827c3ae19d
 =======
 <<<<<<<< HEAD:git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead.meta
 guid: 0d418c52ce495d2408a087cfd7308c8a
+========
+guid: 28068185d08f2074ab06a9e87a2518b8
+>>>>>>>> parent of a5ba70f (تابلو درست کردیم):git1/Assets/art.meta
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
+=======
+<<<<<<<< HEAD:git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset.meta
+guid: db0ec50390b7e2d468038a2370374718
 ========
 guid: 28068185d08f2074ab06a9e87a2518b8
 >>>>>>>> parent of a5ba70f (تابلو درست کردیم):git1/Assets/art.meta

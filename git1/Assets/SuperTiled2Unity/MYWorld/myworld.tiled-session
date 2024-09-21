@@ -9,6 +9,7 @@
     ],
     "fileStates": {
         "FistWorld.tmx": {
+<<<<<<< HEAD
             "scale": 8,
             "selectedLayer": 2,
             "viewCenter": {
@@ -23,6 +24,16 @@
 =======
                 "x": 159.16666666666669,
                 "y": 222.33333333333331
+=======
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 268.1666666666667,
+                "y": 310.3333333333333
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
             }
         },
         "Water.tmx": {
@@ -42,10 +53,10 @@
                 4
             ],
             "scale": 2.13,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 199.76525821596243,
-                "y": 76.056338028169
+                "y": 199.99999999999997
             }
 >>>>>>> parent of f1740d2 (تغییرات دیزاینر مهری)
         }
@@ -58,11 +69,22 @@
     "map.width": 25,
     "openFiles": [
         "FistWorld.tmx",
+<<<<<<< HEAD
         "fist.tsx"
+=======
+        "fist.tsx",
+        "Water.tmx",
+        "jazire.tmx"
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
     ],
     "project": "myworld.tiled-project",
     "recentFiles": [
         "FistWorld.tmx",
+<<<<<<< HEAD
+=======
+        "jazire.tmx",
+        "Water.tmx",
+>>>>>>> parent of a5ba70f (تابلو درست کردیم)
         "fist.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",

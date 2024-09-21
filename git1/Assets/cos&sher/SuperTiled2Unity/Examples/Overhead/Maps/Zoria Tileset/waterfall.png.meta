@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:git1/Assets/cos&sher/SuperTiled2Unity/Examples/Overhead/Maps/Zoria Tileset/waterfall.png.meta
 guid: 46fa0e4069c426f4a8390bd5420f5808
+========
+guid: 0dae3606ea7a03e4abe0b04dce864513
+>>>>>>>> parent of a5ba70f (تابلو درست کردیم):git1/Assets/cos&sher/gfx/objects.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -65,7 +69,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
